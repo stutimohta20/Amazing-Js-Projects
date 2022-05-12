@@ -529,5 +529,9 @@
   {
     "name": "Emoji-Search",
     "link": "Emoji-Search/index.html"
+  },
+  {
+    "name": "Random-Color-Generator"
+    "link": " Random-Color-Generator/index.html"
   }
 ]
